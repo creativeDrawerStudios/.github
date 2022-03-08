@@ -1,12 +1,15 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# creativeDrawerStudios
+Hi! Were working on random games and game engines.<br />
+<br/>
+<details> 
+	<summary>Other Stuff</summary>
+	<br>
+	<ul>
+    <li>Working on eSharp and ProjectDarkness</li>
+    <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
+    <ul>
+      <li>Weekly Featured Programming Language</li>
+      <li>Odin <a href="https://github.com/odin-lang/Odin">(The gihub repo)</a></li>
+    </ul>
+	</ul>
+</details>
