@@ -2,7 +2,7 @@
 Hi! Were working on random games and game engines.<br />
 <br/>
 <details> 
-	<summary>Other Stuff</summary>
+	<summary>Extra Stuff</summary>
 	<br>
 	<ul>
     <li>Working on eSharp and ProjectDarkness</li>
