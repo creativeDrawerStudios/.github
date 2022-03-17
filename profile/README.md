@@ -9,7 +9,7 @@ Hi! Were working on random games and game engines.<br />
     <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
     <ul>
       <li>Weekly Featured Programming Language</li>
-      <li>Odin <a href="https://github.com/odin-lang/Odin">(The gihub repo)</a></li>
+      <li>V <a href="https://github.com/vlang/v">(The gihub repo)</a></li>
     </ul>
 	</ul>
 </details>
