@@ -9,7 +9,7 @@ Hi! Were working on random game engines.<br />
     <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
     <ul>
       <li>Weekly Featured Programming Language</li>
-      <li>V <a href="https://github.com/vlang/v">(The gihub repo)</a></li>
+      <li>Python <a href="https://www.python.org/">(The Website)</a></li>
     </ul>
 	</ul>
 </details>
