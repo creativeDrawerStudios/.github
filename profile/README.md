@@ -9,7 +9,7 @@ Hi! Were working on random game engines.<br />
     <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
     <ul>
       <li>Weekly Featured Programming Language</li>
-      <li>Python <a href="https://www.python.org/">(The Website)</a></li>
+      <li>CoffeeScript <a href="https://coffeescript.org/">(The Website)</a></li>
     </ul>
 	</ul>
 </details>
