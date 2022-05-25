@@ -10,7 +10,7 @@ Hi! Were working on random game engines.<br />
     <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
     <ul>
       <li>Weekly Featured Programming Language</li>
-      <li>Markdown <a href="https://www.markdownguide.org/">(The Website)</a></li>
+      <li>Rust <a href="https://www.rust-lang.org/">(The Website)</a></li>
     </ul>
 	</ul>
 </details>
