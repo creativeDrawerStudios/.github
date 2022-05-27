@@ -1,6 +1,6 @@
-# creativeDrawerStudios
-Hi! Were working on random game engines.<br />
-"Live Moss"<br/>
+# <a href="https://github.com/creativeDrawerStudios/">creativeDrawerStudios</a>
+Hi! Were working on random Games & Game Engines<br />
+>"Live Moss"<br/>
 <br/>
 <details> 
 	<summary>Extra Stuff</summary>
