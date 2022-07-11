@@ -1,5 +1,5 @@
 # <a href="https://github.com/creativeDrawerStudios/">creativeDrawerStudios</a>
-Hi! Were working on random Games & Game Engines<br />
+Hi! We're working on random stuff<br />
 >"Live Moss"<br/>
 <br/>
 <details> 
