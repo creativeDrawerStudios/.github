@@ -1,4 +1,4 @@
-# <a href="https://github.com/creativeDrawerStudios/">creativeDrawerStudios</a>
+# <a href="https://creativedrawerstudios.github.io/">creativeDrawerStudios</a>
 Hi! We're working on random stuff<br />
 >"Live Moss"<br/>
 <br/>
