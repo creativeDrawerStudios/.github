@@ -1,6 +1,8 @@
-# <a href="https://creativedrawerstudios.github.io/">creativeDrawerStudios</a>
-Hi! We're working on random stuff<br />
->"Live Moss"<br/>
+# creativeDrawer<a href="https://creativedrawerstudios.github.io/">Studios</a>
+
+> <b>Hi!</b> We're working on random stuff<br />
+
+><em><b>"Live Moss"</b></em><br/>
 <br/>
 <details> 
 	<summary>Extra Stuff</summary>
