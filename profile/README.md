@@ -10,7 +10,7 @@ Hi! We're working on random stuff<br />
     <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
     <ul>
       <li>Weekly Featured Programming Language</li>
-      <li>F#<a href="https://fsharp.org/">(The Website)</a></li>
+      <li>Jsx<a href="https://reactjs.org/docs/introducing-jsx.html">(The Website)</a></li>
     </ul>
 	</ul>
 </details>
