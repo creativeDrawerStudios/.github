@@ -11,7 +11,7 @@
     <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
     <ul>
       <li>Weekly Featured Programming Language</li>
-      <li>Jsx<a href="https://reactjs.org/docs/introducing-jsx.html">(The Website)</a></li>
+      <li>Svelte<a href="https://svelte.dev/">(The Website)</a></li>
     </ul>
 	</ul>
 </details>
