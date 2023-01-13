@@ -1,17 +1,4 @@
-# creativeDrawer<a href="https://creativedrawerstudios.github.io/">Studios</a>
-
-> <b>Hi!</b> We're working on random stuff<br />
-><em><b>"Live Moss"</b></em><br/>
-<br/>
-<details> 
-	<summary>Extra Stuff</summary>
-	<br>
-	<ul>
-    <li>Working on eSharp and ProjectDarkness</li>
-    <li><a href="https://gamejolt.com/@ClassicMC">My Gamejolt</a></li>
-    <ul>
-      <li>Weekly Featured Programming Language</li>
-      <li>Svelte<a href="https://svelte.dev/">(The Website)</a></li>
-    </ul>
-	</ul>
-</details>
+<h1 align="center">creativeDrawerStudios</h1>
+<p>As of January <a href="https://">13</a> 2023 creativeDrawerStudios is an <b>Archived</b> Organization.</p>
+<h6>All currently active projects <em>will*</em> be moved over to ClassicMC-Studios.</h6>
+<h6>Thanks for stickin with us!<br/></h6>
